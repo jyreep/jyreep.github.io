@@ -1,4 +1,5 @@
-###Question 1.
+### Question 1
+
 The variables have different names between the datasets. 
 
 The number of variables differ between datasets that appear to be measuring the same things.
@@ -13,7 +14,8 @@ Not sure what the graphs will be used for but one is measuring Depth vs Cuni #/L
 
 There is no index column.
 
-###Question 2
+### Question 2
+
 The intention is to add more accurate date tracking with a boolean for AM/PM since it seems like that is a meaningful differentiator. I would also maintain the variable scheme dividing the two observation groups via their own columns.
 
 I also added an index column.
