@@ -5,7 +5,7 @@ The following is a list of files in this repository.
 This list is incompelete and contains placeholders.
 
 * [Background Research](www.google.com)
-* [Data Entry Analysis](www.google.com)
+* [Data Entry Analysis](https://github.com/jyreep/jyreep.github.io/blob/master/assignments/DataEntryAnalysis.md)
 
 
 
